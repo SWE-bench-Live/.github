@@ -6,6 +6,8 @@
 
 ---
 
+**Our official repository has released: [microsoft/SWE-bench-Live](https://github.com/microsoft/SWE-bench-Live).**
+
 Welcome to SWE-bench-Live! This is the main page of our repositories.
 
 | Repo | Description |
