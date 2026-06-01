@@ -6,11 +6,11 @@
 
 ---
 
-**Our official repository has released: [microsoft/SWE-bench-Live](https://github.com/microsoft/SWE-bench-Live).**
-
-Welcome to SWE-bench-Live! This is the main page of our repositories.
+Welcome to SWE-bench-Live project! This is the main page of our repositories.
 
 | Repo | Description |
 | - | - |
-| [SWE-bench-Live/SWE-bench-Live](https://github.com/SWE-bench-Live/SWE-bench-Live) | A fork of [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) with modifications that allow you to directly run the evaluation harness on our dataset! |
-| [SWE-bench-Live/launch](https://github.com/SWE-bench-Live/launch) | **RepoLaunch:** An agentic tool that automatically creates a Docker execution environment for a repository. |
+| [SWE-bench-Live](https://github.com/microsoft/SWE-bench-Live) | An open-source project that crawls latest GitHub issues and Prs for agentic benchmarking and training. |
+| [RepoLaunch](https://github.com/microsoft/RepoLaunch) | An SWE tool powered by agentic method to automatically build and test GitHub repositories. |
+| [SWE-bench-Live Trajectories](https://github.com/SWE-bench-Live/submission) | Archive of LM agents' trajectories on SWE-bench-Live. |
+| [RepoLaunch Trajectories](https://github.com/SWE-bench-Live/RepoLaunch-trajectory-archive) | Archive of RepoLaunch agents' trajectories on bulding and testing GitHub repos. |
